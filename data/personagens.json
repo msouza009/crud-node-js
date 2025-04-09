@@ -1,0 +1,78 @@
+[
+  {
+    "id": 2,
+    "nome": "Matheus",
+    "nomeAventureiro": "Matheus Escudo de Carvalho",
+    "classe": "Mago",
+    "level": 5,
+    "itensMagicos": [
+      {
+        "id": "1744210730242",
+        "nome": "Amuleto da Defesa",
+        "tipo": "Amuleto",
+        "forca": 0,
+        "defesa": 3
+      }
+    ],
+    "forcaBase": 5,
+    "defesaBase": 5,
+    "itens": []
+  },
+  {
+    "id": 3,
+    "nome": "Sir Lancelot Supremo",
+    "nomeAventureiro": "O Bravo",
+    "classe": "Guerreiro",
+    "level": 10,
+    "itensMagicos": [
+      {
+        "id": "1744211052267",
+        "nome": "Espada Sagrada",
+        "tipo": "Arma",
+        "forca": 5,
+        "defesa": 0
+      }
+    ],
+    "forcaBase": 6,
+    "defesaBase": 4,
+    "itens": []
+  },
+  {
+    "id": 4,
+    "nome": "Archmage Merlin",
+    "nomeAventureiro": "O Arcano",
+    "classe": "Mago",
+    "level": 12,
+    "itensMagicos": [
+      {
+        "id": "1744211048719",
+        "nome": "Amuleto da Luz",
+        "tipo": "Amuleto",
+        "forca": 0,
+        "defesa": 2
+      }
+    ],
+    "forcaBase": 3,
+    "defesaBase": 5,
+    "itens": []
+  },
+  {
+    "id": 5,
+    "nome": "Legolas",
+    "nomeAventureiro": "O Elfo Ágil",
+    "classe": "Arqueiro",
+    "level": 8,
+    "itensMagicos": [
+      {
+        "id": "1744211160029",
+        "nome": "Capa das Sombras",
+        "tipo": "Armadura",
+        "forca": 0,
+        "defesa": 3
+      }
+    ],
+    "forcaBase": 5,
+    "defesaBase": 5,
+    "itens": []
+  }
+]

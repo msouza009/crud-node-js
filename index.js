@@ -1,7 +1,10 @@
 const express = require('express');
 const server = express();
-server.listen(3000);
+const routes = require('./routes');
 
-server.get('/characters', (req, res) => {
-    return res.json({message: 'teste-route'});
-})
+server.use(express.json());
+server.use(routes);
+
+server.listen(3000, () => {
+    console.log('Servidor rodando!');
+});

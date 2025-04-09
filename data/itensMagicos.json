@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1744210599906",
+    "nome": "Elmo de Ferro",
+    "tipo": "Armadura",
+    "forca": 0,
+    "defesa": 3
+  },
+  {
+    "id": "1744210675993",
+    "nome": "Amuleto da Força",
+    "tipo": "Amuleto",
+    "forca": 2,
+    "defesa": 1
+  },
+  {
+    "id": "1744210730242",
+    "nome": "Amuleto da Defesa",
+    "tipo": "Amuleto",
+    "forca": 0,
+    "defesa": 3
+  },
+  {
+    "id": "1744211048719",
+    "nome": "Amuleto da Luz",
+    "tipo": "Amuleto",
+    "forca": 0,
+    "defesa": 2
+  },
+  {
+    "id": "1744211160029",
+    "nome": "Capa das Sombras",
+    "tipo": "Armadura",
+    "forca": 0,
+    "defesa": 3
+  }
+]
